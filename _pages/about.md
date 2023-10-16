@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: git-github.png
+  # image: git-github.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>S1371B</p>
