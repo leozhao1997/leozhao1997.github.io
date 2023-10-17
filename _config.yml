@@ -2,7 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+# title: # the website title (if blank, full name will be used instead)
+title: <span class="font-weight-bold">{{ Leo Zhiyuan }}</span class="font-weight-bold"> {{ ZHAO }} {{ (赵志远) }}
 first_name: Leo Zhiyuan
 middle_name: 
 last_name: Zhao
@@ -41,7 +42,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -154,7 +155,7 @@ disqus_shortname: # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-# external_sources:
+external_sources:
   # - name:
   #   rss_url: 
 
