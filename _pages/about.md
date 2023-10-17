@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title:
 permalink: /
 # subtitle: Leo Zhiyuan Zhao (赵志远)
 
