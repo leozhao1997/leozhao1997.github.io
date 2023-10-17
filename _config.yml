@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 # title: # the website title (if blank, full name will be used instead)
-title: <span class="font-weight-bold">{{ Leo Zhiyuan }}</span class="font-weight-bold"> {{ ZHAO }} {{ (赵志远) }}
-first_name: Leo Zhiyuan
+title: Zhiyuan (Leo) Zhao
+first_name: Zhiyuan
 middle_name: 
 last_name: Zhao
 email: leozhao1997@gatech.edu
