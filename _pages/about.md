@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: git-github.png
+  image: mypic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>S1371B</p>
