@@ -9,7 +9,7 @@ profile:
   image: mypic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>S1371B</p>
+    <p>S1371CC</p>
     <p>756 W Peachtree St NW</p>
     <p>Atlanta, GA 30308</p>
 
@@ -19,14 +19,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a second-year [Machine Learning Ph.D. student](https://ml.gatech.edu/) in [Department of Computational Science and Engineering](https://cse.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/). I am affiliated with AdityaLab and advised by [Dr. B Aditya Prakash](https://faculty.cc.gatech.edu/~badityap/). My research focuses on time-series forecasting with various techniques, such as attention, causality, physics-regularization, and LLMs. These research results have made real-world influences such as Flu and COVID-19 forecasting challenges organized by CDC.
+I’m a third-year [Machine Learning Ph.D. student](https://ml.gatech.edu/) in [Department of Computational Science and Engineering](https://cse.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/). I am affiliated with AdityaLab and advised by [Dr. B Aditya Prakash](https://faculty.cc.gatech.edu/~badityap/). My research focuses on time-series forecasting with various techniques, such as attention, causality, physics-regularization, and LLMs. These research results have made real-world influences such as Flu and COVID-19 forecasting challenges organized by CDC.
 
 I am also interested in pre-trained foundation models and applications of LLMs in time series tasks. Previously, my research spanned physics-informed neural networks with the advice of [Prof. Aarti Singh](https://www.cs.cmu.edu/~aarti/) and federated learning under the advice of [Prof. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/) at Carnegie Mellon University.
 
 My current research focus includes:
-1. Learning performativity and causality representations for time-series forecasting;
+<!-- 1. Learning performativity and causality representations for time-series forecasting;
 2. Zero-shot time-series forecasting using LLMs and multi-modality large models;
-3. Out-of-distribution (OOD) generalization for time series.
+3. Out-of-distribution (OOD) generalization for time series. -->
+
+1. Out-of-distribution (OOD) generalization for time series;
+2. Time series fundation models and multi-modality time series forecasting;
+3. Time series forecasting in industrial application (with Amazon SCOT).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
