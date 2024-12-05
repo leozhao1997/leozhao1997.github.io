@@ -24,9 +24,6 @@ I’m a third-year [Machine Learning Ph.D. student](https://ml.gatech.edu/) in [
 I am also interested in pre-trained foundation models and applications of LLMs in time series tasks. Previously, my research spanned physics-informed neural networks with the advice of [Prof. Aarti Singh](https://www.cs.cmu.edu/~aarti/) and federated learning under the advice of [Prof. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/) at Carnegie Mellon University.
 
 My current research focus includes:
-<!-- 1. Learning performativity and causality representations for time-series forecasting;
-2. Zero-shot time-series forecasting using LLMs and multi-modality large models;
-3. Out-of-distribution (OOD) generalization for time series. -->
 
 1. Out-of-distribution (OOD) generalization for time series;
 2. Time series fundation models and multi-modality time series forecasting;
