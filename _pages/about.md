@@ -13,6 +13,7 @@ profile:
     <p>756 W Peachtree St NW</p>
     <p>Atlanta, GA 30308</p>
 
+exp: true
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
